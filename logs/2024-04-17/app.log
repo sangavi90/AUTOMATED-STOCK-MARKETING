@@ -1,0 +1,127 @@
+[E 240417 12:32:53 exits:512] Error: Leg matching query does not exist.
+[E 240417 17:10:27 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:15 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:16 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:17 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:17 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:18 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:18 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:19 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:20 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:20 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:21 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:21 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:22 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:22 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:23 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:24 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:24 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:25 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:25 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:26 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:26 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:27 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:29 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:29 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelbroking.com/rest/auth/angelbroking/user/v1/loginByPassword. Error: Something Went Wrong, Please Try After Sometime. URL: https://apiconnect.angelbroking.com/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'e1:76:9d:64:54:de', 'Accept': 'application/json', 'X-PrivateKey': '4dPdQcGs', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'S2098754', 'password': '2024', 'totp': '659587'}, Response: {'message': 'Something Went Wrong, Please Try After Sometime', 'errorcode': 'AB1004', 'status': False, 'data': None}
+[E 240417 17:31:29 exits:529] Error: 'NoneType' object is not subscriptable
+[E 240417 17:31:29 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:29 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:30 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:31 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:31 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:32 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:32 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:33 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:34 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:34 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:35 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:35 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:36 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:36 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:37 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:37 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:38 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:39 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:39 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:40 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:40 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:41 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:42 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:42 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:43 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:43 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:44 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:31:44 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:45 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:46 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:46 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:47 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:31:47 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:31:48 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:11 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:12 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:12 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:13 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:13 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:14 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:14 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:15 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:16 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:16 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:17 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:18 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:18 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:19 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:19 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:20 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:20 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:21 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:21 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:22 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:23 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:23 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:24 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:24 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:25 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:26 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:26 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:27 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:27 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:28 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:28 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:29 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:29 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:30 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:30 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:31 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:33 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:33 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:33 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:34 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:34 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:35 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:35 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:37 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:38 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:38 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:33:38 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:39 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:39 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:40 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:41 exits:529] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:42 exits:629] Error: Leg matching query does not exist.
+[E 240417 17:33:42 exits:629] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
+[E 240417 17:33:43 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelbroking.com/rest/auth/angelbroking/user/v1/loginByPassword. Error: Something Went Wrong, Please Try After Sometime. URL: https://apiconnect.angelbroking.com/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'e1:76:9d:64:54:de', 'Accept': 'application/json', 'X-PrivateKey': '4dPdQcGs', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'S2098754', 'password': '2024', 'totp': '989154'}, Response: {'message': 'Something Went Wrong, Please Try After Sometime', 'errorcode': 'AB1004', 'status': False, 'data': None}
+[E 240417 17:33:43 exits:629] Error: 'NoneType' object is not subscriptable
+[E 240417 17:33:44 exits:529] Error: Leg matching query does not exist.
+[E 240417 17:35:49 exits:529] Error: Remote end closed connection without response
+[E 240417 17:59:25 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelbroking.com/rest/auth/angelbroking/user/v1/loginByPassword. Error: Something Went Wrong, Please Try After Sometime. URL: https://apiconnect.angelbroking.com/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'e1:76:9d:64:54:de', 'Accept': 'application/json', 'X-PrivateKey': '4dPdQcGs', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'S2098754', 'password': '2024', 'totp': '894714'}, Response: {'message': 'Something Went Wrong, Please Try After Sometime', 'errorcode': 'AB1004', 'status': False, 'data': None}
+[E 240417 19:12:15 exits:548] Error: can't concat str to bytes
+[E 240417 19:30:12 exits:186] Error: Leg matching query does not exist.
+[E 240417 19:31:15 exits:186] Error: Leg matching query does not exist.
+[E 240417 19:33:38 exits:186] Error: Leg matching query does not exist.
+[E 240417 19:34:19 exits:303] Error: Leg matching query does not exist.
+[E 240417 19:35:15 exits:303] Error: Leg matching query does not exist.
+[E 240417 19:35:37 exits:303] Error: Leg matching query does not exist.
+[E 240417 19:35:38 exits:303] Error: Leg matching query does not exist.
+[E 240417 19:53:09 exits:307] Error: Couldn't parse the JSON response received from the server: b'Access denied because of exceeding access rate'
