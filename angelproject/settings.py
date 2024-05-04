@@ -146,9 +146,7 @@ from logzero import logger
 
 from SmartApi import SmartConnect,SmartWebSocket 
 
-api_key = '4dPdQcGs'
-username = 'S2098754'
-pwd = '2024'
+
 smartApi = SmartConnect(api_key)
 token = "AFH6577WNNSGC4TGXVLJWHVAQI"
 import pyotp
